@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "949390958726",
+    "firebase_url": "https://fir-mhs-9e5de.firebaseio.com",
+    "project_id": "fir-mhs-9e5de",
+    "storage_bucket": "fir-mhs-9e5de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949390958726:android:2e89ba87982381cf",
+        "android_client_info": {
+          "package_name": "com.splash.firebasemahasiswa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949390958726-j7vj3l3n4r6sj6fq0u5q0mefarp1a87n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.splash.firebasemahasiswa",
+            "certificate_hash": "a6ce512809a1e55ad1a2c73490cf2d24cc7009af"
+          }
+        },
+        {
+          "client_id": "949390958726-u6oc018vqtomb15cnuv9kacq5o0jk0em.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk5T7zRx-7on5SMyAKF1y7zEgmhZQyYcU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "949390958726-u6oc018vqtomb15cnuv9kacq5o0jk0em.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
